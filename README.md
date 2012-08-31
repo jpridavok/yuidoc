@@ -1,7 +1,7 @@
-YUIDoc Doc parser
-=================
+YUIDoc for Moscrif SDK parser
+=============================
 
-YUIDoc is a [Node.js](http://nodejs.org/) application used at build time to 
+YUIDoc for Moscrif SDK is a [Node.js](http://nodejs.org/) application used at build time to 
 generate API documentation for JavaScript code. YUIDoc is comment-driven and supports a wide 
 range of JavaScript coding styles. The output of YUI Doc is API documentation formatted as a 
 set of HTML pages including information about methods, properties, custom events and 
