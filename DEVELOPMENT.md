@@ -1,9 +1,9 @@
-YUIDoc Development
-==================
+YUIDoc for Moscrif SDK Development
+==================================
 
 If you want to work on the default theme or need to work on the parser/builder, here's the steps:
 
-   * git clone git://github.com/yui/yuidoc.git (or your fork)
+   * git clone git://github.com/jpridavok/yuidoc.git
    * cd yuidoc
    * sudo npm link
 
